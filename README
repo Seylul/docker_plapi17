@@ -1,0 +1,6 @@
+Before use you must change according to your configuration
+
+	-<IP ADDRESS>, <USERNAME>, <PASSWORD> (in 6th line of reports.py)
+	-<ROOTPATH> (in 12th line of reports.py)
+	-<SECOND_PATH> (in 16th line of reports.py)
+	-<ARGD1> and <ARGD2> (in 21st line of Dockerfile)
